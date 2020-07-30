@@ -10,13 +10,12 @@
 
 ## Setup/Installation Requirements
 
-* use the terminal to clone this repository 
 * to clone this content, copy the url provided by the 'clone or download' button in GitHub
 * in terminal use the command 'git clone (GitHub url)'
 * open the content in a web browser
 
 ## Known Bugs
-  This code is a work in progress (currently broken)
+  None
 
 ## Support and contact details
 
